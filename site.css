@@ -1,0 +1,43 @@
+header {
+    text-align: center;
+    background-color: #00000096;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    
+}
+
+body {
+    background-image: url('guri.avif');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: #1e1e1e;
+    color: #b0b0b0; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding:0; 
+    line-height: 1.6;
+    margin: 0;
+}
+
+.content {
+    max-width: 800px; 
+    margin: 0 auto; 
+    background-color: rgba(27, 27, 27, 0.8); 
+    padding: 22Spx; 
+    border-radius: 10px;
+}
+
+section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 10px solid #222222;
+    border-radius: 8px;
+}
+footer{
+    text-align: left;
+    background-color: #242424;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    color: #c7c7c7;
+}
+
